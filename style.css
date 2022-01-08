@@ -1,0 +1,63 @@
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgb(221, 221, 221);
+}
+
+header {
+
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+#band-logo {
+    margin: auto;
+    display: block;
+    padding-top: 1em;    
+}
+
+#title {
+    text-align: center;
+}
+
+#figure {
+    margin-bottom: 3em;
+    background-color: rgb(238, 238, 238);
+}
+
+figcaption {
+    padding-bottom: 1em;
+}
+
+#img-div {
+    text-align: center;
+}
+
+#image {
+    width: 100%;
+    height: auto;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;    
+}
+
+#tribute-info {
+    font-size: 1.1em;
+    line-height: 1.7em;
+    margin-left: 5em;
+    margin-right: 5em;
+}
+
+#final-info {
+    text-align: center;
+    margin: 3em auto 3em auto;
+}
+
